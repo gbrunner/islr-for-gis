@@ -19,7 +19,7 @@ Slides and video lectures that correspond to the textbook can be found on datasc
 |Chapter 5 | [Slides](https://web.stanford.edu/~hastie/MOOC-Slides/cv_boot.pdf) | [Video](https://www.youtube.com/playlist?list=PL5-da3qGB5IA6E6ZNXu7dp89_uv8yocmf) | [Notebook](https://github.com/gbrunner/islr-for-gis/blob/main/notebook_2_multiple_logistic_regression_cross_validation_and_prediction/multiple_logistic_regression_cross_validation_and_prediction.ipynb) |
 |Chapter 6 | [Slides](https://web.stanford.edu/~hastie/MOOC-Slides/model_selection.pdf) | [Video](https://www.youtube.com/playlist?list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI) |
 |Chapter 7 | [Slides](https://web.stanford.edu/~hastie/MOOC-Slides/nonlinear.pdf) | [Video](https://www.youtube.com/playlist?list=PL5-da3qGB5IBn84fvhh-u2MU80jvo8OoR) |
-|Chapter 8 | [Slides](https://web.stanford.edu/~hastie/MOOC-Slides/trees.pdf) | [Video](https://www.youtube.com/playlist?list=PL5-da3qGB5IB23TLuA8ZgVGC8hV8ZAdGh) |
+|Chapter 8 | [Slides](https://web.stanford.edu/~hastie/MOOC-Slides/trees.pdf) | [Video](https://www.youtube.com/playlist?list=PL5-da3qGB5IB23TLuA8ZgVGC8hV8ZAdGh) | [Notebook](https://github.com/gbrunner/islr-for-gis/blob/main/notebook_3_decision_trees/decision_trees.ipynb)
 |Chapter 9 | [Slides](https://web.stanford.edu/~hastie/MOOC-Slides/svm.pdf) | [Video](https://www.youtube.com/playlist?list=PL5-da3qGB5IDl6MkmovVdZwyYOhpCxo5o) |
 |Chapter 10 | [Slides](https://web.stanford.edu/~hastie/MOOC-Slides/unsupervised.pdf) | [Video](https://www.youtube.com/playlist?list=PL5-da3qGB5IBC-MneTc9oBZz0C6kNJ-f2) |
 
